@@ -7,6 +7,7 @@ Es un **blog** enfocado a la tecnología así como a diferentes lenguajes de pro
 - HTML
 - CSS
 - Bootstrap
+- Sass
 
 ## Autores
 - Oswaldo Hernández
