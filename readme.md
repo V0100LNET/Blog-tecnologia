@@ -11,5 +11,3 @@ Es un **blog** enfocado a la tecnología así como a diferentes lenguajes de pro
 
 ## Autores
 - Oswaldo Hernández
-
-
